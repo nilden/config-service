@@ -1,0 +1,8 @@
+### Return default configuration
+//@no-log
+GET http://localhost:8888/catalog-service/default
+
+### Return prod configuration
+//@no-log
+GET http://localhost:8888/catalog-service/prod
+
